@@ -138,7 +138,7 @@ section {
   transform: translateY(0);
 }
 .reveal-servico {
-  background-image: url(/Imagem/Fundo_Servico.JPG);
+  background-image: url(Imagem/Fundo_Servico.JPG);
   background-position: 100%;
   background-repeat: no-repeat;
   background-size: cover;
