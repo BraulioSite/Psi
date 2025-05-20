@@ -98,7 +98,7 @@ nav a.active::after {
 
 /* home */
 .fundo {
-  background-image: url(/Imagem/Fundo_Sobre.JPG);
+  background-image: url(Imagem/Fundo_Sobre.JPG);
   background-position: 100%;
   background-repeat: no-repeat;
   background-size: cover;
